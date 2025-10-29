@@ -1,0 +1,5 @@
+_pycache __/
+.venv/
+*.csv
+
+*.txt
